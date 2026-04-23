@@ -1,1 +1,11 @@
-/output
+# Ignore all compiled class files
+*.class
+
+# Ignore the specific output directory
+output/
+
+# Ignore IDE specific folders (optional but recommended)
+.settings/
+.project
+.classpath
+bin/
