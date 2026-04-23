@@ -5,7 +5,7 @@ public class sample {
     }
 
     public static void even(){
-        int n=5
+        int n=5;
         if (n/2==0)
         System.out.println("even");
         else
